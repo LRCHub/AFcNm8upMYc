@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Shadow Shadow",
+  "base_artist": "Azari",
+  "createdAt": "2026-02-25T09:55:18.077387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shadow Shadow",
+      "artist": "Jubyphonic",
+      "has_synced": false,
+      "path": "select/01_Shadow_Shadow_Jubyphonic.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shadow Shadow (English Cover) 【JubyPhonic】",
+      "artist": "JubyPhonic",
+      "has_synced": false,
+      "path": "select/02_Shadow_Shadow_(English_Cover)_【JubyPhonic】_JubyPhonic.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shadow Shadow",
+      "artist": "Azari",
+      "has_synced": true,
+      "path": "select/03_Shadow_Shadow_Azari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shadow Shadow - Russian ver.",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/04_Shadow_Shadow_-_Russian_ver._Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shadow Shadow",
+      "artist": "Azari",
+      "has_synced": true,
+      "path": "select/05_Shadow_Shadow_Azari.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shadow Shadow",
+      "artist": "Hebe Tian",
+      "has_synced": false,
+      "path": "select/06_Shadow_Shadow_Hebe_Tian.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shadow Shadow (Instrumental)",
+      "artist": "Azari",
+      "has_synced": true,
+      "path": "select/07_Shadow_Shadow_(Instrumental)_Azari.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shadow Shadow",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/08_Shadow_Shadow_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shadow Shadow (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/09_Shadow_Shadow_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shadow (SHADOW (그림자))",
+      "artist": "BEAST",
+      "has_synced": true,
+      "path": "select/10_Shadow_(SHADOW_(그림자))_BEAST.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dancing Shadow (Shadow Dancer Pt.2)",
+      "artist": "Claudia Brucken",
+      "has_synced": false,
+      "path": "select/11_Dancing_Shadow_(Shadow_Dancer_Pt.2)_Claudia_Brucken.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shadow Shadow",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン",
+      "has_synced": true,
+      "path": "select/12_Shadow_Shadow_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shadow Shadow",
+      "artist": "Song, Azari",
+      "has_synced": true,
+      "path": "select/13_Shadow_Shadow_Song,_Azari.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shadow Shadow",
+      "artist": "25時、ナイトコードで。 (楠木ともり, 田辺留依, 鈴木みのり, 佐藤日向) Feat. 鏡音レン",
+      "has_synced": true,
+      "path": "select/14_Shadow_Shadow_25時、ナイトコードで。_(楠木ともり,_田辺留依,_鈴木みのり,_佐藤日向)_Feat._鏡音レン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shadow Shadow",
+      "artist": "Azari",
+      "has_synced": false,
+      "path": "select/pl_01_Shadow_Shadow_Azari.txt"
+    }
+  ]
+}
